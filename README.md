@@ -81,7 +81,6 @@ Nguyên tắc thiết kế:
 | Tăng khả năng truy vết | Tỷ lệ điều chỉnh hoặc xử lý có người thực hiện và lịch sử ghi nhận |
 | Bảo vệ dữ liệu | Số trường hợp truy cập sai quyền hoặc chia sẻ dữ liệu không phù hợp |
 
-Lưu ý: cần đo hiện trạng trước khi đặt mục tiêu cụ thể. Số sự cố ghi nhận có thể tăng sau triển khai vì hệ thống ghi nhận đầy đủ hơn, nên không dùng riêng "số sự cố giảm" làm tiêu chí thành công.
 
 ## 7. Cấu trúc repository
 
@@ -93,7 +92,7 @@ Lưu ý: cần đo hiện trạng trước khi đặt mục tiêu cụ thể. S�
 └── diagrams/                                       # (tùy chọn) Sơ đồ BPMN AS-IS / TO-BE
 ```
 
-> Đổi tên file và thư mục cho khớp với repo thực tế của bạn.
+
 
 ## 8. Mục lục báo cáo
 
